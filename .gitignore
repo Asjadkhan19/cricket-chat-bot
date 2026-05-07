@@ -1,0 +1,16 @@
+# Ignore unwanted files
+demo.cpp
+demo.exe
+hashing1.cpp
+
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/

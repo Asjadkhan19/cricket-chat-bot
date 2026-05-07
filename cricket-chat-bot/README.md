@@ -1,8 +1,4 @@
 # cricket-chat-bot
 AI-powered cricket assistant with real-time web search and persistent conversation memory, built using Groq LLM and Google Custom Search API.
 <br>
-<<<<<<< HEAD
 Author - Asjad Khan
-=======
-Author - Asjad Khan
->>>>>>> 7433b0abb3df06fa83d7304dadf1abb32f483d8b
