@@ -1,0 +1,23 @@
+/* src/styles/card.css */
+/* Premium cricket-themed card styles */
+.card-glow {
+  /* subtle stadium glow effect */
+  box-shadow: 0 0 12px rgba(211, 240, 10, 0.4), 0 0 24px rgba(211, 240, 10, 0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+.card-glow::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  background: linear-gradient(135deg, rgba(211,240,10,0.2), rgba(211,240,10,0) 70%);
+  pointer-events: none;
+  z-index: -1;
+}
+
+.divider {
+  height: 2px;
+  margin: 0.75rem 0;
+  background: linear-gradient(to right, transparent, #d3f00a, transparent);
+}

@@ -1,0 +1,689 @@
+[
+  {
+    "id": "t_international_intl_india",
+    "name": "India",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_australia",
+    "name": "Australia",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_england",
+    "name": "England",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_pakistan",
+    "name": "Pakistan",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_south_africa",
+    "name": "South Africa",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_new_zealand",
+    "name": "New Zealand",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_sri_lanka",
+    "name": "Sri Lanka",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_bangladesh",
+    "name": "Bangladesh",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_afghanistan",
+    "name": "Afghanistan",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_west_indies",
+    "name": "West Indies",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_ireland",
+    "name": "Ireland",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_zimbabwe",
+    "name": "Zimbabwe",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_scotland",
+    "name": "Scotland",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_netherlands",
+    "name": "Netherlands",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_nepal",
+    "name": "Nepal",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_uae",
+    "name": "UAE",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_usa",
+    "name": "USA",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_canada",
+    "name": "Canada",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_oman",
+    "name": "Oman",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_namibia",
+    "name": "Namibia",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_hong_kong",
+    "name": "Hong Kong",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_malaysia",
+    "name": "Malaysia",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_singapore",
+    "name": "Singapore",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_papua_new_guinea",
+    "name": "Papua New Guinea",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_jersey",
+    "name": "Jersey",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_uganda",
+    "name": "Uganda",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_kenya",
+    "name": "Kenya",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_bermuda",
+    "name": "Bermuda",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_italy",
+    "name": "Italy",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_germany",
+    "name": "Germany",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_denmark",
+    "name": "Denmark",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_spain",
+    "name": "Spain",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_kuwait",
+    "name": "Kuwait",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_bahrain",
+    "name": "Bahrain",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_qatar",
+    "name": "Qatar",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_saudi_arabia",
+    "name": "Saudi Arabia",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_japan",
+    "name": "Japan",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_vanuatu",
+    "name": "Vanuatu",
+    "type": "International"
+  },
+  {
+    "id": "t_international_intl_fiji",
+    "name": "Fiji",
+    "type": "International"
+  },
+  {
+    "id": "t_franchise_ipl_chennai_super_kings",
+    "name": "Chennai Super Kings",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_mumbai_indians",
+    "name": "Mumbai Indians",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_royal_challengers_bengaluru",
+    "name": "Royal Challengers Bengaluru",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_kolkata_knight_riders",
+    "name": "Kolkata Knight Riders",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_rajasthan_royals",
+    "name": "Rajasthan Royals",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_sunrisers_hyderabad",
+    "name": "Sunrisers Hyderabad",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_delhi_capitals",
+    "name": "Delhi Capitals",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_punjab_kings",
+    "name": "Punjab Kings",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_gujarat_titans",
+    "name": "Gujarat Titans",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_lucknow_super_giants",
+    "name": "Lucknow Super Giants",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_deccan_chargers",
+    "name": "Deccan Chargers",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_rising_pune_supergiant",
+    "name": "Rising Pune Supergiant",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_gujarat_lions",
+    "name": "Gujarat Lions",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_pune_warriors_india",
+    "name": "Pune Warriors India",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_ipl_kochi_tuskers_kerala",
+    "name": "Kochi Tuskers Kerala",
+    "type": "Franchise",
+    "category": "IPL"
+  },
+  {
+    "id": "t_franchise_bbl_perth_scorchers",
+    "name": "Perth Scorchers",
+    "type": "Franchise",
+    "category": "BBL"
+  },
+  {
+    "id": "t_franchise_bbl_sydney_sixers",
+    "name": "Sydney Sixers",
+    "type": "Franchise",
+    "category": "BBL"
+  },
+  {
+    "id": "t_franchise_bbl_brisbane_heat",
+    "name": "Brisbane Heat",
+    "type": "Franchise",
+    "category": "BBL"
+  },
+  {
+    "id": "t_franchise_bbl_adelaide_strikers",
+    "name": "Adelaide Strikers",
+    "type": "Franchise",
+    "category": "BBL"
+  },
+  {
+    "id": "t_franchise_bbl_melbourne_stars",
+    "name": "Melbourne Stars",
+    "type": "Franchise",
+    "category": "BBL"
+  },
+  {
+    "id": "t_franchise_bbl_melbourne_renegades",
+    "name": "Melbourne Renegades",
+    "type": "Franchise",
+    "category": "BBL"
+  },
+  {
+    "id": "t_franchise_bbl_sydney_thunder",
+    "name": "Sydney Thunder",
+    "type": "Franchise",
+    "category": "BBL"
+  },
+  {
+    "id": "t_franchise_bbl_hobart_hurricanes",
+    "name": "Hobart Hurricanes",
+    "type": "Franchise",
+    "category": "BBL"
+  },
+  {
+    "id": "t_franchise_wbbl_sydney_sixers_women",
+    "name": "Sydney Sixers Women",
+    "type": "Franchise",
+    "category": "WBBL"
+  },
+  {
+    "id": "t_franchise_wbbl_perth_scorchers_women",
+    "name": "Perth Scorchers Women",
+    "type": "Franchise",
+    "category": "WBBL"
+  },
+  {
+    "id": "t_franchise_wbbl_adelaide_strikers_women",
+    "name": "Adelaide Strikers Women",
+    "type": "Franchise",
+    "category": "WBBL"
+  },
+  {
+    "id": "t_franchise_wbbl_brisbane_heat_women",
+    "name": "Brisbane Heat Women",
+    "type": "Franchise",
+    "category": "WBBL"
+  },
+  {
+    "id": "t_franchise_wbbl_melbourne_stars_women",
+    "name": "Melbourne Stars Women",
+    "type": "Franchise",
+    "category": "WBBL"
+  },
+  {
+    "id": "t_franchise_wbbl_melbourne_renegades_women",
+    "name": "Melbourne Renegades Women",
+    "type": "Franchise",
+    "category": "WBBL"
+  },
+  {
+    "id": "t_franchise_wbbl_sydney_thunder_women",
+    "name": "Sydney Thunder Women",
+    "type": "Franchise",
+    "category": "WBBL"
+  },
+  {
+    "id": "t_franchise_wbbl_hobart_hurricanes_women",
+    "name": "Hobart Hurricanes Women",
+    "type": "Franchise",
+    "category": "WBBL"
+  },
+  {
+    "id": "t_franchise_psl_peshawar_zalmi",
+    "name": "Peshawar Zalmi",
+    "type": "Franchise",
+    "category": "PSL"
+  },
+  {
+    "id": "t_franchise_psl_multan_sultans",
+    "name": "Multan Sultans",
+    "type": "Franchise",
+    "category": "PSL"
+  },
+  {
+    "id": "t_franchise_psl_lahore_qalandars",
+    "name": "Lahore Qalandars",
+    "type": "Franchise",
+    "category": "PSL"
+  },
+  {
+    "id": "t_franchise_psl_islamabad_united",
+    "name": "Islamabad United",
+    "type": "Franchise",
+    "category": "PSL"
+  },
+  {
+    "id": "t_franchise_psl_karachi_kings",
+    "name": "Karachi Kings",
+    "type": "Franchise",
+    "category": "PSL"
+  },
+  {
+    "id": "t_franchise_psl_quetta_gladiators",
+    "name": "Quetta Gladiators",
+    "type": "Franchise",
+    "category": "PSL"
+  },
+  {
+    "id": "t_franchise_the hundred_oval_invincibles",
+    "name": "Oval Invincibles",
+    "type": "Franchise",
+    "category": "The Hundred"
+  },
+  {
+    "id": "t_franchise_the hundred_southern_brave",
+    "name": "Southern Brave",
+    "type": "Franchise",
+    "category": "The Hundred"
+  },
+  {
+    "id": "t_franchise_the hundred_trent_rockets",
+    "name": "Trent Rockets",
+    "type": "Franchise",
+    "category": "The Hundred"
+  },
+  {
+    "id": "t_franchise_the hundred_welsh_fire",
+    "name": "Welsh Fire",
+    "type": "Franchise",
+    "category": "The Hundred"
+  },
+  {
+    "id": "t_franchise_the hundred_london_spirit",
+    "name": "London Spirit",
+    "type": "Franchise",
+    "category": "The Hundred"
+  },
+  {
+    "id": "t_franchise_the hundred_manchester_originals",
+    "name": "Manchester Originals",
+    "type": "Franchise",
+    "category": "The Hundred"
+  },
+  {
+    "id": "t_franchise_the hundred_northern_superchargers",
+    "name": "Northern Superchargers",
+    "type": "Franchise",
+    "category": "The Hundred"
+  },
+  {
+    "id": "t_franchise_the hundred_birmingham_phoenix",
+    "name": "Birmingham Phoenix",
+    "type": "Franchise",
+    "category": "The Hundred"
+  },
+  {
+    "id": "t_franchise_sa20_sunrisers_eastern_cape",
+    "name": "Sunrisers Eastern Cape",
+    "type": "Franchise",
+    "category": "SA20"
+  },
+  {
+    "id": "t_franchise_sa20_pretoria_capitals",
+    "name": "Pretoria Capitals",
+    "type": "Franchise",
+    "category": "SA20"
+  },
+  {
+    "id": "t_franchise_sa20_mi_cape_town",
+    "name": "MI Cape Town",
+    "type": "Franchise",
+    "category": "SA20"
+  },
+  {
+    "id": "t_franchise_sa20_joburg_super_kings",
+    "name": "Joburg Super Kings",
+    "type": "Franchise",
+    "category": "SA20"
+  },
+  {
+    "id": "t_franchise_sa20_paarl_royals",
+    "name": "Paarl Royals",
+    "type": "Franchise",
+    "category": "SA20"
+  },
+  {
+    "id": "t_franchise_sa20_durbans_super_giants",
+    "name": "Durban's Super Giants",
+    "type": "Franchise",
+    "category": "SA20"
+  },
+  {
+    "id": "t_franchise_mlc_mi_new_york",
+    "name": "MI New York",
+    "type": "Franchise",
+    "category": "MLC"
+  },
+  {
+    "id": "t_franchise_mlc_seattle_orcas",
+    "name": "Seattle Orcas",
+    "type": "Franchise",
+    "category": "MLC"
+  },
+  {
+    "id": "t_franchise_mlc_texas_super_kings",
+    "name": "Texas Super Kings",
+    "type": "Franchise",
+    "category": "MLC"
+  },
+  {
+    "id": "t_franchise_mlc_la_knight_riders",
+    "name": "LA Knight Riders",
+    "type": "Franchise",
+    "category": "MLC"
+  },
+  {
+    "id": "t_franchise_mlc_san_francisco_unicorns",
+    "name": "San Francisco Unicorns",
+    "type": "Franchise",
+    "category": "MLC"
+  },
+  {
+    "id": "t_franchise_mlc_washington_freedom",
+    "name": "Washington Freedom",
+    "type": "Franchise",
+    "category": "MLC"
+  },
+  {
+    "id": "t_franchise_ilt20_gulf_giants",
+    "name": "Gulf Giants",
+    "type": "Franchise",
+    "category": "ILT20"
+  },
+  {
+    "id": "t_franchise_ilt20_desert_vipers",
+    "name": "Desert Vipers",
+    "type": "Franchise",
+    "category": "ILT20"
+  },
+  {
+    "id": "t_franchise_ilt20_mi_emirates",
+    "name": "MI Emirates",
+    "type": "Franchise",
+    "category": "ILT20"
+  },
+  {
+    "id": "t_franchise_ilt20_abu_dhabi_knight_riders",
+    "name": "Abu Dhabi Knight Riders",
+    "type": "Franchise",
+    "category": "ILT20"
+  },
+  {
+    "id": "t_franchise_ilt20_dubai_capitals",
+    "name": "Dubai Capitals",
+    "type": "Franchise",
+    "category": "ILT20"
+  },
+  {
+    "id": "t_franchise_ilt20_sharjah_warriors",
+    "name": "Sharjah Warriors",
+    "type": "Franchise",
+    "category": "ILT20"
+  },
+  {
+    "id": "t_franchise_bpl_comilla_victorians",
+    "name": "Comilla Victorians",
+    "type": "Franchise",
+    "category": "BPL"
+  },
+  {
+    "id": "t_franchise_bpl_fortune_barishal",
+    "name": "Fortune Barishal",
+    "type": "Franchise",
+    "category": "BPL"
+  },
+  {
+    "id": "t_franchise_bpl_sylhet_strikers",
+    "name": "Sylhet Strikers",
+    "type": "Franchise",
+    "category": "BPL"
+  },
+  {
+    "id": "t_franchise_bpl_rangpur_riders",
+    "name": "Rangpur Riders",
+    "type": "Franchise",
+    "category": "BPL"
+  },
+  {
+    "id": "t_franchise_bpl_chattogram_challengers",
+    "name": "Chattogram Challengers",
+    "type": "Franchise",
+    "category": "BPL"
+  },
+  {
+    "id": "t_franchise_bpl_khulna_tigers",
+    "name": "Khulna Tigers",
+    "type": "Franchise",
+    "category": "BPL"
+  },
+  {
+    "id": "t_franchise_bpl_durdanto_dhaka",
+    "name": "Durdanto Dhaka",
+    "type": "Franchise",
+    "category": "BPL"
+  },
+  {
+    "id": "t_franchise_cpl_trinbago_knight_riders",
+    "name": "Trinbago Knight Riders",
+    "type": "Franchise",
+    "category": "CPL"
+  },
+  {
+    "id": "t_franchise_cpl_guyana_amazon_warriors",
+    "name": "Guyana Amazon Warriors",
+    "type": "Franchise",
+    "category": "CPL"
+  },
+  {
+    "id": "t_franchise_cpl_barbados_royals",
+    "name": "Barbados Royals",
+    "type": "Franchise",
+    "category": "CPL"
+  },
+  {
+    "id": "t_franchise_cpl_saint_lucia_kings",
+    "name": "Saint Lucia Kings",
+    "type": "Franchise",
+    "category": "CPL"
+  },
+  {
+    "id": "t_franchise_cpl_jamaica_tallawahs",
+    "name": "Jamaica Tallawahs",
+    "type": "Franchise",
+    "category": "CPL"
+  },
+  {
+    "id": "t_franchise_cpl_st_kitts_and_nevis_patriots",
+    "name": "St Kitts & Nevis Patriots",
+    "type": "Franchise",
+    "category": "CPL"
+  },
+  {
+    "id": "t_franchise_cpl_antigua_and_barbuda_falcons",
+    "name": "Antigua & Barbuda Falcons",
+    "type": "Franchise",
+    "category": "CPL"
+  },
+  {
+    "id": "t_franchise_lpl_jaffna_kings",
+    "name": "Jaffna Kings",
+    "type": "Franchise",
+    "category": "LPL"
+  },
+  {
+    "id": "t_franchise_lpl_galle_marvels",
+    "name": "Galle Marvels",
+    "type": "Franchise",
+    "category": "LPL"
+  },
+  {
+    "id": "t_franchise_lpl_colombo_strikers",
+    "name": "Colombo Strikers",
+    "type": "Franchise",
+    "category": "LPL"
+  },
+  {
+    "id": "t_franchise_lpl_dambulla_sixers",
+    "name": "Dambulla Sixers",
+    "type": "Franchise",
+    "category": "LPL"
+  },
+  {
+    "id": "t_franchise_lpl_kandy_falcons",
+    "name": "Kandy Falcons",
+    "type": "Franchise",
+    "category": "LPL"
+  }
+]

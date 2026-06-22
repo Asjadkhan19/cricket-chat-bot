@@ -1,0 +1,17 @@
+# Render Infrastructure Blueprint
+# Deploys the Python FastAPI backend service
+services:
+  - type: web
+    name: cricket-gpt-backend
+    runtime: python
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: ALLOWED_ORIGINS
+        value: "*"
+      - key: ENVIRONMENT
+        value: production
+      - key: PORT
+        value: 10000
