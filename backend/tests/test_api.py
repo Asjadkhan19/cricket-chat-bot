@@ -9,7 +9,7 @@ sys.path.append(
 )
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 
-from app.main import app
+from backend.app.main import app
 
 client = TestClient(app)
 
@@ -23,8 +23,8 @@ def test_read_root():
     assert "environment" in data
 
 
-@patch("app.main.search_web")
-@patch("app.main.groq_service.get_chat_completion")
+@patch("backend.app.main.search_web")
+@patch("backend.app.main.groq_service.get_chat_completion")
 def test_chat_endpoint(mock_groq, mock_search):
     # Setup mocks
     mock_search.return_value = "Mocked web search content"
@@ -40,8 +40,8 @@ def test_chat_endpoint(mock_groq, mock_search):
     assert "Test Answer" in data["reply"]
 
 
-@patch("app.main.search_web")
-@patch("app.main.groq_service.get_chat_completion")
+@patch("backend.app.main.search_web")
+@patch("backend.app.main.groq_service.get_chat_completion")
 def test_chat_endpoint_with_player_metadata(mock_groq, mock_search):
     mock_search.return_value = ""
     # The endpoint will make 3 completions:
@@ -76,7 +76,7 @@ def test_clear_chat_endpoint():
 
 
 def test_should_trigger_search_classification():
-    from app.services.search import should_trigger_search
+    from backend.app.services.search import should_trigger_search
 
     # Real-time queries (should trigger search)
     assert should_trigger_search("what is the live score of India vs Pakistan?") is True
@@ -92,9 +92,9 @@ def test_should_trigger_search_classification():
     assert should_trigger_search("Biography of Don Bradman") is False
 
 
-@patch("app.services.metadata.groq_service.get_chat_completion")
+@patch("backend.app.services.metadata.groq_service.get_chat_completion")
 def test_classify_query_card_types(mock_groq):
-    from app.services.metadata import classify_query
+    from backend.app.services.metadata import classify_query
 
     def mock_classify_side_effect(messages):
         user_msg = messages[-1]["content"]
@@ -125,6 +125,5 @@ def test_classify_query_card_types(mock_groq):
     # Non-matching queries
     assert classify_query("What is an LBW?") == (None, None)
     assert classify_query("How to hold a cricket bat") == (None, None)
-
 
 

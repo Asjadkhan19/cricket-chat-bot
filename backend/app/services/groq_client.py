@@ -1,6 +1,6 @@
 import os
 from groq import Groq
-from app.config import settings
+from ..config import settings
 
 
 class GroqService:

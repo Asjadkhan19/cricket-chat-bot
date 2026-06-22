@@ -11,7 +11,7 @@ import json
 import logging
 from typing import Optional
 
-from app.services.groq_client import groq_service
+from .groq_client import groq_service
 
 logger = logging.getLogger("cricket-gpt-api")
 
@@ -327,4 +327,3 @@ def extract_metadata(reply: str, metadata_type: str, original_query: str, player
         else:
             logger.error(f"Metadata generation failure for query '{original_query}': {e}")
             return None
-

@@ -3,12 +3,12 @@ from datetime import datetime
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
-from app.config import settings
-from app.schemas import ChatRequest, ChatResponse, ClearResponse
-from app.services.search import search_web, should_trigger_search
-from app.services.groq_client import groq_service
-from app.services.memory import memory_service
-from app.services.metadata import classify_query, extract_metadata
+from .config import settings
+from .schemas import ChatRequest, ChatResponse, ClearResponse
+from .services.search import search_web, should_trigger_search
+from .services.groq_client import groq_service
+from .services.memory import memory_service
+from .services.metadata import classify_query, extract_metadata
 
 # Define logging configuration for production (logs to stdout for Render)
 logging.basicConfig(
