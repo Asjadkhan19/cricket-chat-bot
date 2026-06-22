@@ -1,8 +1,24 @@
 # 🏏 Cricket Chat Bot
+![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green?logo=fastapi)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![Python](https://img.shields.io/badge/Python-3.12-yellow?logo=python)
+![License](https://img.shields.io/badge/License-MIT-orange)
 
 > An AI-powered Cricket Chat Bot that delivers intelligent cricket conversations, player insights, team information, and real-time web-enhanced responses using Groq LLM, FastAPI, and Next.js.
 
 ---
+
+# 🌐 Live Demo
+
+### 🚀 Live Website
+
+Frontend: https://cricket-chat-bot-three.vercel.app/
+
+Backend API: https://cricket-chat-bot-backend.onrender.com
+
+GitHub Repository: https://github.com/Asjadkhan19/cricket-chat-bot
+
 
 # 📌 Project Overview
 
@@ -11,6 +27,40 @@ Cricket Chat Bot is a full-stack AI web application designed for cricket enthusi
 Unlike a traditional chatbot, this project maintains conversation history, performs intelligent web searches when required, and presents a modern, responsive user interface for an enhanced user experience.
 
 ---
+
+# ❤️ Built With
+
+- Next.js
+- React
+- TypeScript
+- FastAPI
+- Python
+- Groq LLM
+- Render
+- Vercel
+
+---
+
+# 💡 Why I Built This
+
+This project was developed to explore modern AI application development using Large Language Models while creating a practical solution for cricket enthusiasts. It demonstrates full-stack development, AI integration, API design, deployment, and responsive user interface development in a production-ready application.
+
+
+
+
+# 🚀 Project Status
+
+✅ Backend Successfully Deployed on Render
+
+✅ Frontend Successfully Deployed on Vercel
+
+✅ Production Ready
+
+✅ Responsive UI
+
+✅ AI Powered using Groq LLM
+
+-----
 
 # ✨ Features
 
@@ -113,25 +163,30 @@ cricket-chat-bot/
 
 ## Landing Page
 
-*Add screenshot here*
+
+
 
 ---
 
 ## Chat Interface
 
-*Add screenshot here*
+
+
+
 
 ---
 
 ## Player Explorer
 
-*Add screenshot here*
+
+
 
 ---
 
 ## Team Explorer
 
-*Add screenshot here*
+
+
 
 ---
 
@@ -140,7 +195,7 @@ cricket-chat-bot/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cricket-chat-bot.git
+git clone https://github.com/Asjadkhan19/cricket-chat-bot.git
 ```
 
 ```bash
@@ -168,9 +223,10 @@ uvicorn app.main:app --reload
 ```
 
 Backend runs at
+http://127.0.0.1:8000/
 
 ```
-http://127.0.0.1:8000
+https://cricket-chat-bot-backend.onrender.com
 ```
 
 ---
@@ -196,7 +252,7 @@ npm run dev
 Frontend runs at
 
 ```
-http://localhost:3000
+http://localhost:3000/
 ```
 
 ---
@@ -208,7 +264,7 @@ http://localhost:3000
 ```env
 GROQ_API_KEY=your_groq_api_key
 HOST=0.0.0.0
-ALLOWED_ORIGINS=http://localhost:3000
+ALLOWED_ORIGINS=https://cricket-chat-bot-three.vercel.app
 ```
 
 ---
@@ -216,7 +272,7 @@ ALLOWED_ORIGINS=http://localhost:3000
 ## Frontend (.env.local)
 
 ```env
-NEXT_PUBLIC_API_URL=http://127.0.0.1:8000
+NEXT_PUBLIC_API_URL=https://cricket-chat-bot-backend.onrender.com
 ```
 
 ---
@@ -260,9 +316,12 @@ frontend
 Environment Variable
 
 ```env
-NEXT_PUBLIC_API_URL=YOUR_RENDER_BACKEND_URL
+NEXT_PUBLIC_API_URL=https://cricket-chat-bot-backend.onrender.com
 ```
 
+Live Website
+
+https://cricket-chat-bot-three.vercel.app/
 ---
 
 # 📡 API Endpoints
@@ -306,6 +365,33 @@ NEXT_PUBLIC_API_URL=YOUR_RENDER_BACKEND_URL
 
 ---
 
+# 📊 Repository Status
+
+- ✅ Production Ready
+- ✅ Fully Responsive
+- ✅ AI Powered
+- ✅ TypeScript Enabled
+- ✅ Environment Variables Configured
+- ✅ Cloud Deployed
+- ✅ Clean Project Structure
+
+---
+
+# 🧠 Skills Demonstrated
+
+- Full Stack Development
+- AI Integration
+- REST API Development
+- FastAPI
+- Next.js
+- TypeScript
+- Python
+- Prompt Engineering
+- Deployment
+- Git & GitHub
+- Responsive UI Design
+
+
 # 👨‍💻 Author
 
 **Asjad Khan**
@@ -326,6 +412,6 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
 
-# 📄 License
+Made with ❤️ by **Asjad Khan**
 
-This project is licensed under the MIT License.
+---
